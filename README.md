@@ -12,7 +12,7 @@
     <td width="60%" valign="top" ">
       <h3>🌒 Ore wa Mada Owaranai 🌒</h3>
       <p align="left">────────────────────────────</p>
-      <p>♦Building things end-to-end feels like unlocking a hidden technique mid-battle. Exploring the full stack realm—sometimes with a Node blade, sometimes with a TypeScript scroll—while eyeing the AI/ML frontier like it’s the next arc. Still leveling up, but already blending tech with curiosity. Side quests? Anime and TV shows, of course—because every developer needs a good storyline outside the terminal.♦️
+      <p>Building things end-to-end feels like unlocking a hidden technique mid-battle. Exploring the full stack realm—sometimes with a Node blade, sometimes with a TypeScript scroll—while eyeing the AI/ML frontier like it’s the next arc. Still leveling up, but already blending tech with curiosity. Side quests? Anime and TV shows, of course—because every developer needs a good storyline outside the terminal.
       </p>
     </td>
     <!-- Right Side: GIF -->
@@ -66,9 +66,9 @@
 
 <!-- Stats and Streak Side-by-Side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandavarma&show_icons=true&theme=github_dark&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandavarma&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandavarma&theme=github-dark&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandavarma&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 <!-- Contribution Graph Below -->
