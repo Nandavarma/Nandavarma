@@ -66,10 +66,10 @@
 
 <!-- Stats and Streak Side-by-Side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandavarma&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandavarma&show_icons=true&theme=radical&hide_border=true" height="130"/>
   &nbsp;&nbsp;
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Nandavarma&theme=radical" height="170"/>
+    <img src="https://streak-stats.demolab.com?user=Nandavarma&theme=radical" height="130"/>
   </a>
 </p>
 
