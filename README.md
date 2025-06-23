@@ -66,14 +66,17 @@
 
 <!-- Stats and Streak Side-by-Side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandavarma&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandavarma&show_icons=true&theme=radical&hide_border=true" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandavarma&theme=github-dark&hide_border=true" height="170"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Nandavarma&theme=radical" height="170"/>
+  </a>
 </p>
+
 
 <!-- Contribution Graph Below -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandavarma&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandavarma&theme=rogue&hide_border=true" />
 </p>
 <h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
